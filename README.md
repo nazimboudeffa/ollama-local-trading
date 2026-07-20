@@ -120,7 +120,13 @@ Then update the `MODEL` variable in Cell 2 of the notebook.
    ollama serve
    ```
 
-2. **Open a notebook**:
+2. Open VSCode
+   TODO
+
+4. Launch venv
+   TODO
+   
+6. **Open a notebook**:
    
    For technical indicators analysis:
    ```bash
@@ -132,7 +138,7 @@ Then update the `MODEL` variable in Cell 2 of the notebook.
    jupyter notebook price-action-analysis.ipynb
    ```
 
-3. **Run all cells** (Cell → Run All) or run them sequentially
+7. **Run all cells** (Cell → Run All) or run them sequentially
 
 ### Example Output - Technical Indicators
 
