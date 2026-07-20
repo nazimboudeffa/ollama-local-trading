@@ -121,9 +121,11 @@ Then update the `MODEL` variable in Cell 2 of the notebook.
    ```
 
 2. Open VSCode
+
    TODO
 
 4. Launch venv
+
    TODO
    
 6. **Open a notebook**:
