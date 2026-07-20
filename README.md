@@ -132,12 +132,12 @@ Then update the `MODEL` variable in Cell 2 of the notebook.
    
    For technical indicators analysis:
    ```bash
-   jupyter notebook trading-analysis.ipynb
+   trading-analysis.ipynb
    ```
    
    For price action analysis:
    ```bash
-   jupyter notebook price-action-analysis.ipynb
+   price-action-analysis.ipynb
    ```
 
 7. **Run all cells** (Cell → Run All) or run them sequentially
